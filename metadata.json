@@ -1,0 +1,6 @@
+{
+  "name": "Classic Ludo Multiplayer",
+  "description": "Mobile-first classic Ludo board game for 2 to 6 players with online multiplayer and intelligent AI bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
